@@ -3,7 +3,8 @@
 ### build 文件打包
 
 > npm install archiver —save
-npm install fs-extra —save
+>
+> npm install fs-extra —save
 
 ```jsx
 const chalk = require('chalk');
